@@ -1,4 +1,5 @@
-Simple examples of how to use our formulas to obtain approximations of the security level and the LWE dimension of a set of parameters.  
+Simple examples of how to use our formulas to obtain approximations of the security level and the LWE dimension of a set of parameters. The rest of the formulas
+can be found in Tables.ipynb.
 
 
 ```python
